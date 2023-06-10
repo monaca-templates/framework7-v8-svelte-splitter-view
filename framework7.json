@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/asial/projects/monacaTemplates/monaca-templates-script/framework7/framework7-v8-svelte-splitter-view",
+  "type": [
+    "web"
+  ],
+  "name": "framework7-v8-svelte-splitter-view",
+  "framework": "svelte",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
